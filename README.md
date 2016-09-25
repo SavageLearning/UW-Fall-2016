@@ -12,4 +12,13 @@ My role will be multi-faceted. I will be the product owner, but will also work a
 
 What I ask from you is passion to do great work. What we build will be used daily by volunteers in Seattle, San Francisco, LA, NYC, and other locations in the country for many years to come. There is a small, dedicated group of people in the Machete community and I welcome you to it. Let’s build something awesome!
 
--Jimmy
+-Jimmy @jcii
+
+ |                           |
+ ------------ | -----------: |
+ Slack        | https://savagelearning.slack.com/ |
+Machete v1 repository |  https://github.com/savagelearning/machete |
+Machete v1 documentation  | https://github.com/savagelearning/machete/wiki |
+Casa Latina               | http://casa-latina.org/ |
+National Day Laborer Organizing Network | http://ndlon.org/en/ |
+
