@@ -1,5 +1,6 @@
 # Todo list for new volunteers
 
+0. Read the [letter](https://github.com/SavageLearning/UW-Fall-2016/blob/master/LETTER.md) to new volunteers
 1. Create a github.com account if you don't already have one
 2. Create a github [issue](https://github.com/SavageLearning/UW-Fall-2016/issues) in this repo with your name, so I know your github ID. 
 3. Find the gitter chat room and say 'Hi!'
