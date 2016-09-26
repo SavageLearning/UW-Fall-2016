@@ -10,4 +10,4 @@
 5. Be sure to ask about the field trip to [Casa Latina](https://www.google.com/maps/place/Casa+Latina+Seattle/@47.5995476,-122.312727,17z/data=!3m1!4b1!4m5!3m4!1s0x54906ac022bf5d2b:0x9c0aff2719871584!8m2!3d47.5995476!4d-122.310533)--It's early on Saturday 10/1/2016.
 6. Clone this [repository](https://github.com/SavageLearning/machete-ui) and get it working in your environment
 7. Check out the [wiki](https://github.com/savagelearning/Machete/wiki) main page on Machete v1; The diagram is a high level idea of the work flow
-8. If you're still curious, look at the [Employer's page](https://github.com/savagelearning/Machete/wiki) in the wiki, as we'll be starting with that workflow
+8. If you're still curious, look at the [Employer's page](https://github.com/savagelearning/Machete/wiki/UM-04-Employers-Page) in the wiki, as we'll be starting with that workflow
