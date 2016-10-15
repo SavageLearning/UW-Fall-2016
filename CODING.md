@@ -10,7 +10,7 @@
 8. Do not vent your frustrations in the commit message; [a blank line is more useful.][6]
 
 #Things that will make the workflow delightful
-1. Use the [JIRA ingegration][7] in your branch names, commit messages, and pull requests.
+1. Use the [JIRA integration][7] in your branch names, commit messages, and pull requests.
 
 [1]: https://blog.codinghorror.com/i-pity-the-fool-who-doesnt-write-unit-tests/
 [2]: https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
